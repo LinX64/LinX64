@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an energetic, hard working & smart person who's passionate about Android since 2016. Loves and solves new & complicated challenges while working. Worked as a Pentester, Developer, IT-Programming prof. before. Also, "He never get tired of coding on Mobile platforms".
+An energetic, hard working & smart person who's passionate about Android since 2016. Loves and solves new & complicated challenges while working. Worked as a Pentester, Developer, IT-Programming prof. before. Also, "He never get tired of coding on Mobile platforms".
 
 
 **Android projects:**
