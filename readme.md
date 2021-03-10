@@ -10,7 +10,7 @@ An energetic, hard working & smart person who's passionate about Android since 2
 - Shohadaii Hospital
 - Event
 
-🔭 I’m currently working at AmanatPay company as a Software Engineer & Android Developer which uses `Kotlin/Java` - `Angular`, `Vue.js`, `Node.js`.
+🔭 I’m currently working at AmanatPay company as a Software Engineer & Android Developer which uses `Kotlin`/`Java` - `Angular`, `Vue.js`, `Node.js`.
 
 ----------------
 
