@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an energetic, hard working & smart person who's passionate about Android since 2016. Loves and solves new & complicated challenges while working. Worked as a Pentester, Developer, IT-Programming prof. before. Also, "He never get tired of coding on Mobile platforms".
+An energetic, hard working & smart person who's passionate about android since 2016. Loves and solves new & complicated challenges while working. Worked as a pentester, developer, IT teacher before.
 
 
 **Android projects:**
@@ -10,7 +10,7 @@ I'm an energetic, hard working & smart person who's passionate about Android sin
 - Shohadaii Hospital
 - Event
 
-🔭 I’m currently working at AmanatPay company as a Software Engineer & Android Developer which uses `Kotlin`/`Java` - `Angular`, `Vue.js`, `Node.js`.
+🔭 I’m currently working at AmanatPay company as a Software Engineer & Android Developer which uses `Kotlin`/`Java` - `PHP`/`Laravel` - `Angular`, `Vue.js`, `Node.js`.
 
 ----------------
 
